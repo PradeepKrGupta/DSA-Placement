@@ -1,0 +1,12 @@
+Questions for the preprations 
+
+1. About Stack, Queue, Datastructure and other theoratical options
+
+2. Rotation of the array Type of questions in clock and anti-clock wise 
+
+3. Defeactive and non-defeactive type of questions
+
+
+4. 0[arr] == arr[0] both are same because the *0 th arr is having address.
+
+5. Three dimensional Array
