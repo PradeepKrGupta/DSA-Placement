@@ -18,8 +18,5 @@ public class floyedTriangle{
 // output
 
 /*
-1    
-23   
-456  
-78910
+ 
  */
